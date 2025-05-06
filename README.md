@@ -37,13 +37,15 @@ Open terminal and try execute some kali linux commands
 
 ```run```
 ## OUTPUT
-![alt text](<win hack.png>)
+
+![image](https://github.com/user-attachments/assets/e9635a54-219d-4435-9247-440690254853)
+
 
 ```python3 -m http.server 5678```
 
 ### OUTPUT:
 
-![alt text](host.png)
+![image](https://github.com/user-attachments/assets/da793e31-df02-4d4a-8387-9bd2557df737)
 
 
 
